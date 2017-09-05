@@ -21,3 +21,5 @@ image_classification.meta
 preprocess_batch_*.p
 preprocess_training.p
 preprocess_validation.p
+/output
+.ipynb_checkpoint
